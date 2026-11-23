@@ -1,0 +1,6 @@
+trades.db
+trades.db.*
+backup/
+__pycache__/
+*.pyc
+main.pypython*
